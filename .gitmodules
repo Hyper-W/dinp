@@ -1,0 +1,21 @@
+[submodule "ubuntu-dinp-with-docker"]
+	path = ubuntu-dinp-with-docker
+	url = git@github.com:Hyper-W/ubuntu-dinp-with-docker.git
+[submodule "ubuntu-dinp"]
+	path = ubuntu-dinp
+	url = git@github.com:Hyper-W/ubuntu-dinp.git
+[submodule "debian-dinp-with-docker"]
+	path = debian-dinp-with-docker
+	url = git@github.com:Hyper-W/debian-dinp-with-docker.git
+[submodule "debian-dinp"]
+	path = debian-dinp
+	url = git@github.com:Hyper-W/debian-dinp.git
+[submodule "alpine-dinp-with-docker"]
+	path = alpine-dinp-with-docker
+	url = git@github.com:Hyper-W/alpine-dinp-with-docker.git
+[submodule "alpine-dinp"]
+	path = alpine-dinp
+	url = git@github.com:Hyper-W/alpine-dinp.git
+[submodule "almalinux-dinp-with-docker"]
+	path = almalinux-dinp-with-docker
+	url = git@github.com:Hyper-W/almalinux-dinp-with-docker.git
